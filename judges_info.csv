@@ -1,0 +1,454 @@
+judge_id,court,last_name,first_name,start_decade
+323,hd,Renfors,Cecilia,2010
+322,hd,Reimer,Stefan,2010
+321,hd,Runesson,Eric,2010
+320,hd,Bonthron,Malin,2010
+319,hd,Asp,Petter,2010
+318,hd,Heidenborg,Mari,2010
+317,hd,Johansson,Stefan,2010
+316,hd,Andersson,Sten,2010
+315,hd,Eka,Anders,2010
+314,hd,Edlund,Lars,2010
+313,hd,Mattsson,Dag,2010
+312,hd,Johansson,Svante,2010
+311,hd,Borgeke,Martin,2010
+310,hd,Persson,Ingemar,2010
+309,hd,Bäcklund,Agneta,2010
+308,hd,Herre,Johnny,2010
+307,hd,Lambertz,Göran,2000
+306,hd,Moore,Lena,2000
+305,hd,Lindskog,Stefan,2000
+304,hd,Toijer,Gudmund,2000
+303,hd,Skarhed,Anna,2000
+302,hd,Widebeck,Magnus,2000
+301,hd,Virdesten,Per,2000
+300,hd,Wersäll,Fredrik,2000
+299,hd,Calissendorff,Kerstin,2000
+298,hd,Nyström,Ella,2000
+297,hd,Lindeblad,Ann-Christine,2000
+325,hd,Dahllöf,Lars,2000
+296,hd,Lundius,Marianne,1990
+295,hd,Håstad,Torgny,1990
+294,hd,Pripp,Nina,1990
+293,hd,Blomstrand,Severin,1990
+292,hd,Victor,Dag,1990
+291,hd,Sköllerholm,Ove,1990
+290,hd,Regner,Göran,1990
+289,hd,Thorsson,Leif,1990
+288,hd,Lennander,Gertrud,1990
+326,hd,Westlander,Ingegerd,1990
+287,hd,Nilsson,Edvard,1980
+286,hd,Lambe,Bengt,1980
+285,hd,Danelius,Hans,1980
+284,hd,Munck,Johan,1980
+283,hd,Törnell,Inga-Britt,1980
+282,hd,Svensson,Bo,1980
+281,hd,Beckman,Lars,1980
+280,hd,Nyström,Inger,1980
+279,hd,Solerud,Hans-Gunnar,1980
+278,hd,Beckman,Lars,1980
+277,hd,Bergqvist,Olof,1980
+276,hd,Lind,Johan,1980
+275,hd,Freyschuss,Bertil,1980
+274,hd,Magnusson,Staffan,1980
+273,hd,Gad,Ulf,1980
+272,hd,Broomé,Bo,1980
+271,hd,Gregow,Torkel,1980
+270,hd,Heuman,Jan,1980
+268,hd,Sterzel,Fredrik,1970
+267,hd,Jermsten,Per,1970
+266,hd,Sverne,Tor,1970
+265,hd,Rydin,Bengt,1970
+264,hd,Ljungar,Jan,1970
+263,hd,Bengtsson,Bertil,1970
+262,hd,Palm,Böret,1970
+261,hd,Vängby,Staffan,1970
+260,hd,Persson,Lennart,1970
+259,hd,Knutsson,Anders,1970
+258,hd,Nyman,Sven,1970
+257,hd,Nordenson,Ulf,1970
+256,hd,Stark,Hans,1970
+255,hd,Hessler,Henrik,1970
+254,hd,Nyman,Erik,1970
+253,hd,Welamson,Lars,1970
+252,hd,Mannerfelt,Nils,1960
+251,hd,Ulveson,Ingemar,1960
+250,hd,Brundin,Leif,1960
+249,hd,Höglund,Olle,1960
+248,hd,Gärde Widemar,Ingrid,1960
+247,hd,Fredlund,Lennart,1960
+246,hd,Lundvik,Ulf,1960
+245,hd,Walberg,Manne,1960
+244,hd,Lännergren,Bengt,1960
+243,hd,Holmberg,Carl,1960
+242,hd,Hesser,Torwald,1960
+241,hd,Gyllensvärd,Johan,1960
+240,hd,Westerlind,Peter,1960
+239,hd,Hult,Bengt,1960
+238,hd,Bernhard,Björn,1960
+237,hd,Bergsten,Per,1960
+236,hd,Joachimsson,Nils,1960
+235,hd,Conradi,Erland,1960
+234,hd,Alexanderson,Bertil,1960
+233,hd,Brunnberg,Arne,1960
+232,hd,Riben,Olof,1950
+231,hd,Hedfeldt ,Erik,1950
+230,hd,Petrén,Otto,1950
+229,hd,Söderlund,Yngve,1950
+228,hd,Dennemark,Sigurd,1950
+227,hd,Nordström,Torkel,1950
+226,hd,Bomgren,Gunnar,1950
+225,hd,Digman,Hugo,1950
+224,hd,Edling,Sven,1950
+223,hd,Tammelin,Erik,1950
+222,hd,af Trolle,Herved,1950
+221,hd,Hagbergh,Erik,1950
+220,hd,Romanus,Sven,1950
+219,hd,Söderlund,Erik,1950
+218,hd,Lindell,Ingvar,1940
+217,hd,Lind,Gösta,1940
+216,hd,Regner,Nils,1940
+215,hd,Sjöwall,Jochum,1940
+214,hd,Beckman,Nils,1960
+213,hd,Walin,Gösta,1940
+212,hd,Karlgren,Hjalmar,1940
+211,hd,Lech,Halvar,1940
+210,hd,Ljunggren,Nils,1940
+209,hd,Hagander,Johan,1940
+208,hd,Hellquist,Carl Gustaf,1940
+207,hd,Strandberg,Tore,1940
+206,hd,Nissen,Knut,1930
+205,hd,Dahlman,Gunnar,1930
+204,hd,Santesson,Per,1930
+203,hd,Petré,Ragnar,1930
+202,hd,Ekberg,Seve,1930
+201,hd,Ericsson,Hugo,1930
+200,hd,Sterzel,Fritz,1930
+199,hd,Gyllenswärd,Ragnar,1930
+198,hd,Lind,Erik,1930
+197,hd,Guldberg,Harry,1930
+196,hd,Bellinder,Sven,1930
+195,hd,Alsén,John,1930
+194,hd,Afzelius,Axel,1930
+193,hd,Sandström,Emil,1930
+192,hd,Forssman,Hilding,1930
+191,hd,Vult von Steyern,Nils,1930
+190,hd,Bagge,Algot,1930
+189,hd,Grefberg,Gustaf,1930
+188,hd,Lawski,Sven,1930
+187,hd,Forsberg,Hans,1920
+186,hd,Geijer,Erik,1920
+185,hd,Lindhagen,Arthur,1920
+184,hd,Gärde,Natanael,1920
+183,hd,Eklund,Rudolf,1920
+182,hd,Stenbeck,Einar,1920
+181,hd,Ekeberg,Birger,1920
+180,hd,Tiselius,Karl,1920
+179,hd,Alexanderson,Nils,1920
+178,hd,Högstedt,Karl-Henrik,1920
+177,hd,Kôersner,Albert,1910
+176,hd,Appelberg,Gustaf,1910
+175,hd,Stenberg,Steno,1910
+174,hd,Edelstam,Axel,1910
+173,hd,Molin,Erik,1910
+172,hd,Almén,Tore,1910
+171,hd,Wedberg,Birger,1910
+170,hd,Leijonhufvud,Bo,1910
+169,hd,Dyberg,Vilhelm,1910
+168,hd,Christiansson,Carl,1910
+167,hd,Svedelius,Arvid,1900
+166,hd,von Seth,Pehr,1900
+165,hd,Sjögren,Wilhelm,1900
+163,hd,Carlson,Gustaf,1900
+162,hd,Améen,Louis,1900
+161,hd,Berglöf,Anshelm,1900
+160,hd,Gullstrand,Edvin,1900
+159,hd,Bergman,Otto,1900
+158,hd,Skarstedt,Sigfrid Adalvard,1900
+157,hd,Thomasson,Åke,1900
+156,hd,Borgström,Axel,1900
+155,hd,Hellner,Johannes,1900
+154,hd,Sundberg,Emil,1900
+153,hd,Hederstierna,Carl,1900
+152,hd,Trygger,Ernst,1900
+151,hd,Petrén,Edvard,1900
+150,hd,Marks von Würtemberg,Erik,1900
+149,hd,Silverstolpe,Karl Fredrik,1900
+148,hd,Quensel,Eberhard,1900
+147,hd,Grefberg,Ernst Wilhelm,1890
+146,hd,Cassel,Carl Edvard,1890
+145,hd,Westring,Hjalmar,1900
+144,hd,Ramstedt,Johan Olof,1900
+143,hd,Bohman,Hugo Erik Mauritz,1890
+142,hd,Billing,Herman,1890
+141,hd,Hellström,Carl Abraham,1890
+140,hd,Thollander,Axel Ferdinand,1890
+139,hd,Peterson,Albert,1890
+138,hd,Wijkander,Carl Rutger Theodor,1890
+137,hd,Claëson,Nils,1890
+136,hd,Lindbäck,Karl,1890
+135,hd,Isberg,Paul Gustaf Waldemar,1890
+134,hd,Afzelius,Ivar,1890
+133,hd,Carlson,Karl,1880
+132,hd,Huss,Wilhelm,1880
+131,hd,Thomasson,Eskilander,1880
+130,hd,Westman,Ernst Axel,1880
+129,hd,Hammarskjöld,Carl Gustaf,1880
+128,hd,von Steyern,Nils Henrik Vult,1880
+127,hd,Lilienberg,Robert,1880
+126,hd,Norberg,Alfred August,1880
+125,hd,Skarin,Anders Reinhold,1880
+124,hd,Herslow,Ernst,1880
+123,hd,Åbergsson,Anders Victor,1880
+122,hd,Örbom,Carl Gustaf Axel,1880
+121,hd,Annerstedt,Ludvig,1880
+120,hd,Ahlgren,Christian,1880
+119,hd,Glimstedt,Peter Olof,1880
+118,hd,Ryding,Gustaf,1870
+117,hd,Wedberg,Johan Otto,1870
+116,hd,Östergren,August,1870
+115,hd,Hernmarck,Carl Gustaf,1870
+114,hd,Svedelius,Carl Frithiof,1870
+113,hd,Lindhagen,Claes Albert,1870
+112,hd,von Segebaden,Carl Johan Oscar,1870
+111,hd,Huss,Frans Fabian,1860
+110,hd,Strandberg,Carl Gustaf,1860
+109,hd,Lagerstråle,Gerhard,1860
+108,hd,Olivecrona,Samuel Rudolf Detlof Knut,1860
+107,hd,Dreijer,Arendt,1860
+106,hd,Rabe,Clas Julius,1860
+105,hd,von Hofsten,Karl Erland,1860
+104,hd,Bolin,Walfrid,1860
+103,hd,Naumann,Christian,1860
+102,hd,Adlercreutz,Axel,1860
+101,hd,Wretman,Waldemar,1860
+100,hd,Carleson,Edvard,1860
+99,hd,Almqvist,Ludvig Theodor,1860
+98,hd,Berg,Karl Johan,1850
+97,hd,Leuhusen,Gustaf Wilhelm,1850
+96,hd,Cramér,Victor,1850
+95,hd,Södergren,Johan August,1850
+94,hd,Thyselius,Carl Johan,1850
+93,hd,Roy,John,1850
+92,hd,Quensel,Jacob Andreas Christofer,1850
+91,hd,Iggeström,Fredrik,1850
+90,hd,Günther,Claës Ephraim,1850
+89,hd,Gyllenhammar,Axel Fredrik,1850
+88,hd,Hoffstedt,Carl Gustaf,1840
+87,hd,Quiding,Peter,1840
+86,hd,Alexanderson,Adolf,1840
+85,hd,Schmidt,Carl Christian,1840
+84,hd,af Rolén,Johan Samuel,1840
+83,hd,Sparre,Gustaf Adolf Vive,1840
+82,hd,Posse,Arvid Mauritz,1840
+81,hd,Staël von Holstein,Otto Wilhelm,1840
+80,hd,Sparre,Carl Georg,1830
+79,hd,Snolisky,Nils,1830
+78,hd,Nordenstolpe,Anders Georg Magnus,1830
+77,hd,Backman,Johan Harder,1830
+76,hd,Engelhart,Carl Henric,1830
+75,hd,Lagerheim,Olof Johan,1830
+74,hd,Nyblaeus,Gustaf,1830
+73,hd,Von Lindecreutz,Justus Christopher,1830
+72,hd,Rosenblad,Mathias,1820
+71,hd,Bredberg,Erik Wilhelm,1820
+70,hd,Hård,Carl Gustaf,1820
+69,hd,Isberg,Carl Eric,1820
+68,hd,Stråle,Nils Wilhelm,1820
+67,hd,Themptander,Sven,1820
+66,hd,von Rosén,Erik Gabriel,1820
+65,hd,Evelius,Jonas,1820
+64,hd,Mannerstam,Johan,1810
+63,hd,Örbom,Carl Johan,1810
+62,hd,Sylvander,Josua,1810
+61,hd,Strömfelt,Hans Fredrik Harald,1810
+60,hd,Ekorn,Pehr Adolf,1810
+59,hd,Peterson,Johan Henrik,1810
+58,hd,Noréus,Samuel,1810
+57,hd,Kurck,Clas Arvid,1810
+56,hd,Von Würtenberg,Nils Wilhelm Marks,1810
+55,hd,Hamilton,Gustaf Wathier,1800
+54,hd,Torén,Magnus,1800
+53,hd,Blom,Isac Reinhold,1800
+52,hd,Poppius,Gabriel,1800
+51,hd,Liljevalch,Olof Theodor,1800
+50,hd,Nibelius (Palmsvärd),Jan Eric,1800
+49,hd,af Klinteberg,Wilhelm,1800
+48,hd,Gyllenborg,Fredrik,1800
+47,hd,Lagerheim,Olof Elias,1800
+46,hd,Lundeberg,Anders Lorentz,1800
+45,hd,von Strokirch,Henning Adolf,1800
+44,hd,Iserhielm,Carl Johan,1800
+43,hd,Bergenhem,Erik Johan,1800
+42,hd,Ziervogel,Carl,1800
+41,hd,Sebenius,Samuel,1800
+40,hd,Georgii,Evert,1800
+39,hd,Jusleen,Fredrik,1800
+38,hd,Walleen,Erik,1800
+37,hd,Tandefeldt,Adolf,1800
+36,hd,Gyllenborg,Carl Johan,1800
+35,hd,Norell,Carl Johan,1790
+34,hd,Posse,Gustaf Mauritz,1790
+33,hd,Hallenborg,Carl Arvid,1790
+32,hd,Ridderstolpe,Fredrik Wilhelm,1790
+31,hd,Smaleen,Johan,1790
+30,hd,von Ehrenheim,Johan Ludvig,1790
+29,hd,Von Ackern,Carl Henrik,1790
+28,hd,Lönnrot,Erik Magnus,1790
+27,hd,Taube,Evert Fredrik,1790
+26,hd,Calonius,Mathias,1790
+25,hd,Wåhlin,Anders,1790
+24,hd,Herlin,Johan Wilhelm,1790
+23,hd,Widegren,Carl Fredik,1790
+22,hd,af Zellén,Nils,1790
+21,hd,Hisinger,Carl,1790
+20,hd,Reuterholm,Axel Christian,1790
+19,hd,Gyllenstierna,Axel Erik,1790
+18,hd,von Böhnen,Casper Ludvig,1790
+17,hd,Kurck,Arvid Fredrik,1790
+16,hd,Wallin,Anders,1790
+15,hd,Låstbom,Herman,1790
+14,hd,Oxenstierna,Axel Fredrik,1790
+13,hd,Stockenberg,Jonas,1790
+12,hd,Juslén,Per,1780
+11,hd,Ahnger,Carl Johan,1780
+10,hd,Ullner,Carl,1780
+9,hd,Hoffgardh,Christer,1780
+8,hd,Rogberg,Johan,1780
+7,hd,Evelius,Johan,1780
+6,hd,von Köhler,Axel Johan,1780
+5,hd,Malmerfeldt,Olof,1780
+4,hd,von Düben,Carl Wilhelm,1780
+3,hd,Bonde,Carl,1780
+2,hd,Sparre,Fredrik,1780
+1,hd,Wachtmeister,Carl Axel,1780
+324,hd,Danelius,Johan,2020
+327,hd,Ehrner,Gunnar,1970
+328,hfd,Anderson,Mats,2010
+329,hfd,Svahn Starrsjö,Kristina,2010
+330,hfd,Baran,Mahmut,2010
+331,hfd,Bull,Thomas,2010
+332,hfd,Jäderblom,Helena,2010
+333,hfd,Ståhl,Kristina,2000
+334,hfd,Jermsten,Henrik,2000
+335,hfd,Lundin,Anna-Karin,2000
+336,hfd,Kindlund,Peter,2000
+337,hfd,Almgren,Karin,2000
+338,hfd,Ersson,Stefan,2000
+339,hfd,Nilsson,Bengt-Åke,1990
+340,hfd,Eliason,Marianne,1990
+341,hfd,Rundqvist,Karl-Ingvar,1990
+342,hfd,Billum,Susanne,1980
+343,hfd,Holstad,Sigvard,1980
+344,hfd,Sjöberg,Björn,1980
+345,hfd,Bouvin,Åke,1980
+346,hfd,Palm,Elisabeth,1980
+347,hfd,Brink,Stig,1980
+348,hfd,Björne,Gunnar,1970
+349,hfd,Mueller,Jöran,1970
+350,hfd,Wennergren,Bertil,1970
+351,hfd,Hilding,Ingrid,1970
+352,hfd,Sjöberg,Magnus,1970
+353,hfd,Nordlund,Stig,1960
+354,hfd,Hamdahl,Bengt,1980
+355,hfd,Wieslander,Bengt,1960
+356,hfd,Hjern,Bengt,1970
+357,hfd,Ringdén,Hans-Fredrik,1960
+358,hfd,Åbjörnsson,Carl,1950
+359,hfd,Wilkens,Sten,1950
+360,hfd,Rudewall,Folke,1950
+361,hfd,Klackenberg,Henrik,1950
+362,hfd,Jarnerup,Sture,1950
+363,hfd,Eckerberg,Enar,1940
+364,hfd,Kuylenstierna,Carl,1940
+365,hfd,Eklund,Gustaf,1930
+366,hfd,Aschan,Willand,1920
+367,hfd,Waller,Harald,1920
+368,hfd,Hasselrot,Bror,1920
+369,hfd,Falk,Herman,1910
+370,hfd,Wall,August,1910
+371,hfd,Ernberg,Jarl,1900
+373,hfd,Rosén Andersson,Helena,2010
+374,hfd,Gäverth,Leif,2010
+375,hfd,Askersjö,Inga-Lill,2010
+376,hfd,Silfverberg,Christer,2010
+377,hfd,Nymansson,Erik,2010
+378,hfd,Stenman,Olle,2000
+379,hfd,Knutsson,Margit,2000
+380,hfd,Fernlund,Carl Gustav,2000
+381,hfd,Melin,Mats,2000
+382,hfd,Dexe,Nils,2000
+383,hfd,Wennerström,Lars,1990
+384,hfd,Hulgaard,Bodil,1990
+385,hfd,Nordborg,Kjerstin,1990
+386,hfd,Ragnemalm,Hans,1990
+387,hfd,Baekkevold,Arne,1980
+388,hfd,Laurén,Reidunn,1990
+389,hfd,Werner,Bertil,1980
+390,hfd,Wadell,Ulla,1980
+391,hfd,Tottie,Lars,1980
+392,hfd,Voss,Bertil,1980
+393,hfd,Dyrssen,Gösta,1970
+394,hfd,Wahlgren,Göran,1970
+395,hfd,Hultqvist,Gösta,1970
+396,hfd,Brodén,Sven,1970
+397,hfd,Ericsson,Georg,1970
+398,hfd,Lidbeck,Ingmar,1960
+399,hfd,Lundell,Sture,1960
+400,hfd,Cars,Gunnar,1960
+401,hfd,Martenius,Åke,1960
+402,hfd,Björne,Hilding,1960
+403,hfd,Dillner,Johannes,1950
+404,hfd,Nevrell,Bernt,1950
+405,hfd,Hedborg,Gustaf,1950
+407,hfd,Thelander,Thorsten,1950
+408,hfd,Quensel,Gösta,1940
+409,hfd,Fransén,Henning,1940
+410,hfd,Lundevall,Adolf,1930
+411,hfd,Kellberg,Erik,1920
+413,hfd,Söderwall,Knut,1920
+414,hfd,Planting-Gyllenbåga,Erik,1910
+415,hfd,Thulin,Gabriel,1900
+416,hfd,Palmgren,Herman,1900
+417,hfd,von Essen,Ulrik,2010
+418,hfd,Andersson,Mari,2010
+419,hfd,Classon,Per,2010
+420,hfd,Rynning,Elisabeth,2010
+421,hfd,Saldén Enérus,Anita,2000
+422,hfd,Heckscher,Sten,2000
+423,hfd,Brickman,Annika,2000
+424,hfd,Hamberg,Lennart,2000
+425,hfd,Nord,Eskil,2000
+426,hfd,Stävberg,Carina,2000
+427,hfd,Schäder,Göran,1990
+428,hfd,Sandström,Gustaf,1990
+429,hfd,Lavin,Rune,1990
+430,hfd,Lindstam,Leif,1980
+431,hfd,Swartling,Anders,1980
+432,hfd,von Bahr,Stig,1980
+433,hfd,Berglöf,Sigvard,1980
+434,hfd,Dahlman,Per,1980
+435,hfd,Widmark,Sverker,1980
+436,hfd,Jonson,Lars,1980
+437,hfd,Engblom,Rolf,1970
+438,hfd,Delin,Lars,1970
+439,hfd,Hellner,Eskil,1970
+440,hfd,Petrén,Gustaf,1970
+441,hfd,Reuterswärd,Erik,1960
+442,hfd,Simonsson,Lars,1960
+443,hfd,Paulson,Åke,1960
+444,hfd,Körlof,Voldmar,1960
+445,hfd,Walberg,Sten,1960
+446,hfd,Granqvist,Liss,1960
+447,hfd,Hegrelius,Olov,1950
+448,hfd,Holmgren,Kurt,1950
+449,hfd,Öhman,Frank,1950
+450,hfd,Strömberg,Sven,1950
+451,hfd,Lorichs,Nils,1950
+452,hfd,Björkholm,Sven,1940
+453,hfd,Hjärne,Karl-Gustaf,1930
+454,hfd,Hammarskjöld,Bo,1930
+455,hfd,Meurling,Carl,1920
+457,hfd,Linnér,Sigfrid,1910
+459,hfd,Rydin,Axel,1900
+460,hfd,Lindstedt,Anders,1900
