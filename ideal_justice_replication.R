@@ -35,6 +35,7 @@ ward_cluster <- agnes(judges_om, diss = TRUE, method = "ward")   # creates clust
 
 # compare range of clusters
 
+ward_range <- as.clustrange(ward_cluster, diss=judges_om, ncluster = 8)   # creates cluster quality information on differetn number cluster solutions, up to 8 clusters
 summary(ward_range, max.rank=5)
 plot(ward_range, 
      stat=c("ASWw", "HG", "PBC", "HC"), 
@@ -59,6 +60,7 @@ seqplot(judges_seq,
         type = "I",
         sortv = "from.end",
         border = NA,
+        # cpal=brewer.pal(6, "Greys"),
         xtlab = c(-100:-1))
 
 
@@ -82,30 +84,31 @@ ggplot(mds,
 
 # add cluster membership to Justices info
 
-  judges_info$membership <- ward_range$clustering$cluster6
-  mem_labels <- c("Ministry Judge", "Professor", "Public Servant Judge", "Practising Lawyer", "Career Judge", "Politician Judge")
-  judges_info$mem_labels <- mem_labels[judges_info$membership]
+judges_info$membership <- ward_range$clustering$cluster6
+mem_labels <- c("Ministry Judge", "Professor", "Public Servant Judge", "Practising Lawyer", "Career Judge", "Politician Judge")
+judges_info$mem_labels <- mem_labels[judges_info$membership]
 
 
 # plot types in Supreme Court over time
 
-  ggplot(filter(judges_info, court == "hd") %>%
-           group_by(start_decade, mem_labels) %>%
-           tally() %>%
-           mutate(all_n = sum(n)) %>%
-           mutate(per = n/all_n), 
-         aes(y = per * 100, 
-             x = start_decade)) +
-    lapply(c(1800, 1850, 1900, 1950, 2000), function(xint) geom_vline(aes(xintercept = xint), lty = 2, col = "grey")) +
-    scale_x_continuous(limits = c(1780, current_year)) +
-    scale_y_continuous(limits = c(0, 100)) +
-    geom_col(aes(fill = mem_labels)) +
-    facet_wrap(~mem_labels, nrow = 3) +
-    labs(y = "Percent of appointments",
-         x = "Appontment decade") +
-    theme(legend.position = "none",
-          axis.text.x = element_text(angle = 90),
-          panel.background = element_blank())
+ggplot(filter(judges_info, court == "hd") %>%
+         group_by(start_decade, mem_labels) %>%
+         tally() %>%
+         mutate(all_n = sum(n)) %>%
+         mutate(per = n/all_n), 
+       aes(y = per * 100, 
+           x = start_decade)) +
+  lapply(c(1800, 1850, 1900, 1950, 2000), function(xint) geom_vline(aes(xintercept = xint), lty = 2, col = "grey")) +
+  scale_x_continuous(limits = c(1780, current_year)) +
+  scale_y_continuous(limits = c(0, 100)) +
+  # scale_fill_grey() +
+  geom_col(aes(fill = mem_labels)) +
+  facet_wrap(~mem_labels, nrow = 3) +
+  labs(y = "Percent of appointments",
+       x = "Appointment decade") +
+  theme(legend.position = "none",
+        axis.text.x = element_text(angle = 90),
+        panel.background = element_blank())
 
 
 # plot types in Supreme Administrative Court over time
@@ -120,10 +123,11 @@ ggplot(filter(judges_info, court == "hfd") %>%
   lapply(c(1800, 1850, 1900, 1950, 2000), function(xint) geom_vline(aes(xintercept = xint), lty = 2, col = "grey")) +
   scale_x_continuous(limits = c(1780, current_year)) +
   scale_y_continuous(limits = c(0, 100)) +
+  # scale_fill_grey() +
   geom_col(aes(fill = mem_labels)) +
   facet_wrap(~mem_labels, nrow = 3) +
   labs(y = "Percent of appointments",
-       x = "Appontment decade") +
+       x = "Appointment decade") +
   theme(legend.position = "none",
         axis.text.x = element_text(angle = 90),
         panel.background = element_blank())
